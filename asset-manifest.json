@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tunes-ts/static/css/main.78a8bd09.css",
+    "main.js": "/react-tunes-ts/static/js/main.a8884b33.js",
+    "static/media/logo.svg": "/react-tunes-ts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/search.svg": "/react-tunes-ts/static/media/search.7fdcc1a925b6866b36cc.svg",
+    "index.html": "/react-tunes-ts/index.html",
+    "main.78a8bd09.css.map": "/react-tunes-ts/static/css/main.78a8bd09.css.map",
+    "main.a8884b33.js.map": "/react-tunes-ts/static/js/main.a8884b33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78a8bd09.css",
+    "static/js/main.a8884b33.js"
+  ]
+}
